@@ -1,0 +1,70 @@
+Chinas Sunway TaihuLight and Tianhe-2 topped the list of supercomputers, maintaining the lead the systems had six months ago, according to the Top500 supercomputer rankings.
+
+This highly rated, ultra portable, high capacity external drive is currently 26% off retail price.
+
+The U.S. and China increased the number of supercomputers in the list and are now neck and neck with each having 171 systems, according to the 48th edition of the rankings, released Monday. China had 167 systems to 165 from the U.S. in June's edition of the biannual listing.
+
+Germany trailed with 32 systems in the current list, followed by Japan with 27, France at  20, and the U.K. with 17. This is a sea change from a year ago when the U.S. clearly led the pack with 200 supercomputers, followed by China with 108, Japan at 37, Germany with 33, and both France and the UK having 18 of these big systems.
+[Best Bluetooth speakers: We'll help you find the best wireless speakers for pairing with your smartphone or tablet—whatever your budget, and whatever music floats your boat.]
+
+The supercomputers are also growing more powerful. The total sustained computing capacity of all the 500 computers on the list is now 672 petaflops, a 60 percent increase from a year ago. One petaflop is one thousand trillion floating-point operations per second.
+
+The U.S. leads in aggregate performance, calculated using the Linpack benchmark, but only marginally at 33.9 percent of the total, with China right behind at 33.3 percent.
+
+TaihuLight, capable of 93 petaflops on the Linpack benchmark, had particularly drawn attention because it was built entirely around processors that were designed and made in China.  In June it unseated the top-ranking Tianhe-2 supercomputer, another Chinese computer that had a score of 33.9 petaflops and had led the list of supercomputers for about three years.
+
+Installed at the National Supercomputing Center in Wuxi, TaihuLight used 40,960 SW26010 processors each with 260 cores, unlike the Tianhe-2 which uses 260,000 Intel Xeon E5-2692v2 12-core processors.
+
+The move was seen as a bid by the country to reduce its dependence on foreign processor technology in critical areas after the U.S. banned the supply of Intel Xeon chips to four Chinese supercomputing research centers.
+
+Intel continues to be the major chip supplier for supercomputers with its chips in 462 of the top 500 systems. The share of rival AMD is falling, with its chips figuring in just 7 systems on the current list, down from 13 systems six months earlier. IBM's Power processors have been designed into 22 systems.
+
+Hewlett Packard Enterprise, following its acquisition of SGI, now has 140 systems on the list, followed by Lenovo with 92 systems. Cray had 56 systems but leads all vendors in the aggregate performance of its supercomputers.
+
+The top 10 list has seen two new entrants, both built around Intels Xeon Phi 7250, a 68-core processor codenamed Knights Landing, that delivers 3 peak teraflops of performance. The Cori supercomputer, a Cray XC40 installed at Berkeley Labs National Energy Research Scientific Computing Center, bagged the number 5 slot with a Linpack rating of 14 petaflops. Following it at number 6 is the new Oakforest-PACS supercomputer, a Fujitsu Primergy CX1640 M1 cluster, in operation at Japans Joint Center for Advanced High Performance Computing, which recorded a Linpack score of 13.6 petaflops.
+
+Facebook, which has said that it is not a media company, has hired a CIO from a large media conglomerate. Atish Banerjea, formerly CIO of NBCUniversal has replaced Tim Campos, who earlier this year announced he was moving on from the social media giant to start a new company.
+atish banerjea
+
+Atish Banerjea joined Facebook as its CIOin October.
+
+Banerjea updated his LinkedIn profile to reflect that he is now responsible for overseeing Facebook's global IT function. Banerjea wrote that his team is responsible for "building and running systems that will help scale Facebook globally enabling the company to continue making the world more open and connected."
+Facebook: Media concern or tech powerhouse?
+
+Banerjea's appointment comes at an interesting time for the social network. Some media outlets have attributed President-elect Donald Trump's victory to Facebook, arguing that the company's news feed spread misinformation. The argument forced Facebook CEO Mark Zuckerberg to denounce the notion that Facebook news content somehow tilted the election a "pretty crazy idea."
+
+For a limited time, you can pay only $29 to become a certified social media marketing expert.
+
+Zuckerberg has also contested the idea that Facebook is a media organization, calling it a tech company. His comments revived the debate about what exactly you call a company that distributes content, some of which is certainly news.
+
+While the debate over exactly what Facebook is rages theres little doubt NBCUniversal is a media enterprise. While working as CIO there from January 2013 until September, Banerjea used digital technologies to drive change. In a 2015 article for CIO.com, Banerjea writes that he improved the help desk, increased email inbox capacities, and upgraded its mobile and desktop devices. He also upgraded the companys infrastructure and hired a significant infusion of new IT talent.
+
+“Just a couple of years ago, the NBCUniversal technology organization was largely a back-office IT group that was not very well-connected with business unit leadership,” Banerjea wrote. “Service levels reflected this disconnect, which had resulted from years of underinvestment. IT needed to be repositioned as a business partner that could help move the company's strategic agenda forward.”
+
+Banerjea also partnered with the ad sales team to consolidate TV and digital platforms into one portfolio and invested in data analytics to help boost top-line revenue and profitability.
+At Facebook, the focus is digital
+
+Data, analytics and digital capabilities are Facebooks sweet spot, as Banerjea takes over a fast-running IT department. Campos, who joined Facebook in 2010, instituted a global IT support service that includes video conferencing infrastructure, a custom-built CRM system and data analytics for the company's advertisers. Campos also helped build performance management and recruiting infrastructure as well as "business applications that help our data centers and finance organizations scale their impact through technology and not burdensome overhead," Campos wrote on Facebook in August.
+
+Meanwhile, Michael Bradshaw has stepped into the CIO role at NBCUniversal, where he oversees global IT operations, infrastructure, applications and strategy, according to his LinkedIn profile. He joined the media company in July as CIO of enterprise technologies.
+
+Prior to joining NBCUniversal, Bradshaw worked as CIO for Lockheed Martin's mission systems and training business. He managed IT services that supported business programs and functions and led the IT integration for major acquisition, resulting in a global business unit of more than 35,000 employees.
+
+Over 412 million accounts on dating and entertainment network FriendFinder Networks have reportedly been exposed, the second time that the network has been breached in two years, according to a popular breach notification website.
+
+With Nest Cam Indoor, you can check in -- even when youre out. 24/7 live streaming. No dead...
+
+The websites that have been breached include adultfriendfinder.com, described as the "world's largest sex and swinger community," which accounted for over 339.7 million of the 412 million accounts exposed, LeakedSource said Sunday.
+
+Other network sites that had user accounts exposed were cams.com with 62.6 million exposed, penthouse.com with 7 million, stripshow.com with 1.4 million, icams.com with about 1 million and an unidentified website adding 35,372 users whose accounts were exposed.
+[Best Bluetooth speakers: We'll help you find the best wireless speakers for pairing with your smartphone or tablet—whatever your budget, and whatever music floats your boat.]
+
+The sites were hacked in October through a local file inclusion vulnerability on FriendFinder Networks that was reported at about the same time by a researcher. Soon after disclosing the vulnerability, the researcher, who used the Twitter handle 1x0123 and is also known as Revolver, stated on Twitter that the issue was resolved, and “...no customer information ever left their site,” according to CSOs Salted Hash.
+
+FriendFinder did not immediately comment. The network, however confirmed to ZDNet that it identifed and fixed a vulnerability that “was related to the ability to access source code through an injection vulnerability." 
+
+LeakedSource said it found that passwords were stored in plain visible format or using the weak SHA1 hashed (peppered) algorithm, increasing the possibility of their misuse. LeakedSource claimed it had cracked over 99 percent of all the passwords from the databases to plaintext.
+
+It also found that about 15 million users had an email in the format of: email@address.com@deleted1.com, suggesting that information on users who earlier tried to delete their accounts was still around.
+
+The FriendFinder Networks hack, if confirmed, would outstrip that of Myspace in its impact. The exposure of an estimated 360 million accounts of Myspace users was reported earlier this year. The FriendFinder hack also has the potential of being more embarrassing for a number of users, because of the sensitive transactions on its sites.
